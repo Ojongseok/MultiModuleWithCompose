@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "MultiModuleWithCompose"
 include(":app")
+include(":presentation")
+include(":domain")
+include(":data")
